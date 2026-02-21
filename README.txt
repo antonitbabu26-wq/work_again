@@ -14,7 +14,7 @@ PROJECT DESCRIPTION
 ====================================
 Work Again is an AI-powered Career Re-Entry Ecosystem designed for professionals
 who are returning to work after a career break due to caregiving, health,
-relocation, layoffs, or personal growth.
+relocation, layoffs, or personal growth, confidence boosting
 
 The platform focuses on reducing resume gap bias, rebuilding confidence,
 upskilling users, and connecting them with return-friendly job opportunities.
@@ -98,4 +98,5 @@ Frontend → AI Logic (Future) → Job & Mentor Database
 API DOCUMENTATION
 ====================================
 Not applicable (Backend under development)
+
 
